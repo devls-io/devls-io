@@ -1,10 +1,15 @@
 
 ## Olá! Eu sou o devls-io 👋
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **front-end**. 💻✨ Estou aprendendo e aprimorando minhas habilidades através de projetos práticos, e estou sempre buscando novos desafios e oportunidades para crescer. 🚀
-
+Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **front-end**. 💻✨ Tenho **23 anos** e sou de **São Paulo**. Atualmente, estou aprendendo e aprimorando minhas habilidades através de **projetos práticos**, e estou sempre buscando novos desafios e oportunidades para crescer. 🚀
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devls.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosudre/)
+
+## Projetos 🚀
+Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
+1. <a href="https://devls-io.github.io/myFavoriteMovies/" target="_blank">MyFavoriteMovies</a>  
+2. <a href="https://devls-io.github.io/gerador-senhas/" target="_blank">Gerador de Senhas</a>  
+3. <a href="https://devls-io.github.io/lista-tarefas/" target="_blank">Lista de Tarefas</a>
 
 ___
 
@@ -15,6 +20,9 @@ ___
 ![devls-io GitHub stats](https://github-readme-stats.vercel.app/api?username=devls-io&show_icons=true&theme=tokyonight&hide=prs,contribs&include_all_commits=true&locale=pt-br&card_width=600)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devls-io&langs_count=3&theme=tokyonight&locale=pt-br&card_width=600)](https://github.com/devls-io/github-readme-stats)
+
+
+___
 
 
 
