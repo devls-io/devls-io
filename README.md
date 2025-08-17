@@ -7,15 +7,13 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **fr
 
 ## Projetos 🚀
 Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
-1. <a href="https://devls-io.github.io/myFavoriteMovies/" target="_blank">MyFavoriteMovies</a>  
-2. <a href="https://devls-io.github.io/gerador-senhas/" target="_blank">Gerador de Senhas</a>  
-3. <a href="https://devls-io.github.io/lista-tarefas/" target="_blank">Lista de Tarefas</a>
+1. **[MyFavoriteMovies](https://devls-io.github.io/myFavoriteMovies/)**  
+2. **[Gerador de Senhas](https://devls-io.github.io/gerador-senhas/)**  
+3. **[Lista de Tarefas](https://devls-io.github.io/lista-tarefas/)**
 
 ___
 
-## Estatisticas
-
-
+## Estatisticas 📈
 
 ![devls-io GitHub stats](https://github-readme-stats.vercel.app/api?username=devls-io&show_icons=true&theme=tokyonight&hide=prs,contribs&include_all_commits=true&locale=pt-br&card_width=600)
 
@@ -26,7 +24,7 @@ ___
 
 
 
-## Principais Tecnologias
+## Principais Tecnologias 💻
 
 <div>
   <img
@@ -88,7 +86,7 @@ ___
 
 <br><br><br><br><br> 
 
-## Próximas Tecnologias
+## Próximas Tecnologias 🔍
 
 <div>
   <img
