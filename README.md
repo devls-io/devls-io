@@ -17,7 +17,6 @@ ___
 
 ![devls-io GitHub stats](https://github-readme-stats.vercel.app/api?username=devls-io&show_icons=true&theme=tokyonight&hide=prs,contribs&include_all_commits=true&locale=pt-br&card_width=600)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devls-io&langs_count=3&theme=tokyonight&locale=pt-br&card_width=600)](https://github.com/devls-io/github-readme-stats)
 
 
 ___
