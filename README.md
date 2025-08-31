@@ -11,6 +11,7 @@ Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 2. **[Gerador de Senhas](https://devls-io.github.io/gerador-senhas/)**  
 3. **[Lista de Tarefas](https://devls-io.github.io/lista-tarefas/)**
 4. **[Calculadora](https://devls-io.github.io/Calculadora/)**
+5. **[Timer](https://devls-io.github.io/timer/)**
 
 ___
 
