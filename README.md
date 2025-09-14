@@ -13,6 +13,7 @@ Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 4. **[Calculadora](https://devls-io.github.io/Calculadora/)**
 5. **[Timer](https://devls-io.github.io/timer/)**
 6. **[Cronometro](https://devls-io.github.io/cronometro/)**
+7.**[Conversor](https://devls-io.github.io/conversor-moedas/)**
 
 ___
 
