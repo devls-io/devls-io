@@ -60,6 +60,22 @@ ___
     width="60px" 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img
+    align="left" 
+    alt="React" 
+    title="React" 
+    width="60px" 
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img
+    align="left" 
+    alt="TailwindCSS" 
+    title="TailwindCSS" 
+    width="60px" 
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+
+    
   
   <img
     align="left" 
@@ -68,6 +84,8 @@ ___
     width="60px" 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+
+    
   
   <img
     align="left" 
@@ -92,6 +110,10 @@ ___
     width="60px" 
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
+
+    
+
+    
 </div>  
 
 <br><br><br><br><br> 
@@ -99,21 +121,8 @@ ___
 ## Próximas Tecnologias 🔍
 
 <div>
-  <img
-    align="left" 
-    alt="TailwindCSS" 
-    title="TailwindCSS" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-  
-  <img
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+
   
   <img
     align="left" 
