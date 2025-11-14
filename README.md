@@ -16,6 +16,8 @@ Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 7. **[Conversor](https://devls-io.github.io/conversor-moedas/)**
 8. **[Website](https://devls-io.github.io/website-interativo/)**
 
+Estudos de react => https://github.com/devls-io/react-learning-journey
+
 
 ___
 
