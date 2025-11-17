@@ -5,7 +5,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **fr
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devls.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosudre/)
 
-## Projetos 🚀
+## 🚀 Projetos (HTML/CSS/JS) 
 Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 1. **[MyFavoriteMovies](https://devls-io.github.io/myFavoriteMovies/)**  
 2. **[Gerador de Senhas](https://devls-io.github.io/gerador-senhas/)**  
@@ -15,6 +15,13 @@ Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 6. **[Cronometro](https://devls-io.github.io/cronometro/)**
 7. **[Conversor](https://devls-io.github.io/conversor-moedas/)**
 8. **[Website](https://devls-io.github.io/website-interativo/)**
+
+## ⚛️ Projetos em React
+
+1. **[Quiz_React](https://devls-io.github.io/Quiz-React-App/)** (novo)
+
+
+
 
 Estudos de react => https://github.com/devls-io/react-learning-journey
 
