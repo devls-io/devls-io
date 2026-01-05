@@ -2,6 +2,7 @@
 ## Olá! Eu sou o devls-io 👋
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **front-end**. 💻✨ Tenho **23 anos** e sou de **São Paulo**. Atualmente, estou aprendendo e aprimorando minhas habilidades através de **projetos práticos**, e estou sempre buscando novos desafios e oportunidades para crescer. 🚀
 
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devls.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosudre/)
 
@@ -24,17 +25,6 @@ Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 
 
 Estudos de react => https://github.com/devls-io/react-learning-journey
-
-
-___
-
-## Estatisticas 📈
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devls-io&langs_count=3&theme=tokyonight&locale=pt-br&card_width=600&cache_seconds=86400)](https://github.com/devls-io/github-readme-stats)
-
-
 
 
 ___
@@ -139,6 +129,9 @@ ___
     style="padding-right: 10px"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 </div>
+
+
+
 
 
 
