@@ -3,7 +3,7 @@
 Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **front-end**. 💻✨ Tenho **23 anos** e sou de **São Paulo**. Atualmente, estou aprendendo e aprimorando minhas habilidades através de **projetos práticos**, e estou sempre buscando novos desafios e oportunidades para crescer. 🚀
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/devls.io/)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosudre/)
 
 ## 🚀 Projetos (HTML/CSS/JS) 
