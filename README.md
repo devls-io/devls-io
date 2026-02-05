@@ -1,6 +1,10 @@
 
 ## Olá! Eu sou o devls-io 👋
-Sou estudante de **Análise e Desenvolvimento de Sistemas** com paixão por **front-end**. 💻✨ Tenho **23 anos** e sou de **São Paulo**. Atualmente, estou aprendendo e aprimorando minhas habilidades através de **projetos práticos**, e estou sempre buscando novos desafios e oportunidades para crescer. 🚀
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) com foco total na criação de interfaces modernas e experiências web de alto impacto. 💻✨
+
+Aos 23 anos, em São Paulo, dedico minha jornada a transformar lógica em soluções reais. Meu foco atual é dominar o ecossistema Web através de projetos práticos que resolvem problemas do cotidiano, sempre aplicando as melhores práticas de desenvolvimento e metodologias ágeis. 🚀
+
+Acredito que a tecnologia só faz sentido quando gera valor, e por isso busco constantemente evoluir minha stack e enfrentar desafios que me preparem para o mercado de tecnologia. Bora construir o futuro da web juntos? 🤝
 
 
 
@@ -119,6 +123,14 @@ ___
 
 <div>
 
+
+  <img
+    align="left" 
+    alt="PHP" 
+    title="PHP" 
+    width="60px" 
+    style="padding-right: 10px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 
   
   <img
