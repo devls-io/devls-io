@@ -10,6 +10,17 @@ Acredito que a tecnologia só faz sentido quando gera valor, e por isso busco co
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardosudre/)
 
+### 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devls-io&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=devls-io&layout=compact&theme=tokyonight" />
+</p>
+
+
+
+
+
 ## 🚀 Projetos (HTML/CSS/JS) 
 Aqui estão alguns dos meus projetos. Sinta-se à vontade para explorar!
 1. **[MyFavoriteMovies](https://devls-io.github.io/myFavoriteMovies/)**  
