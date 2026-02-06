@@ -48,111 +48,26 @@ ___
 
 ## Principais Tecnologias 💻
 
-<div>
-  <img
-    align="left" 
-    alt="HTML5" 
-    title="HTML5" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-    
-  <img
-    align="left" 
-    alt="CSS3" 
-    title="CSS3" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-    
-  <img
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-    <img
-    align="left" 
-    alt="React" 
-    title="React" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-    <img
-    align="left" 
-    alt="TailwindCSS" 
-    title="TailwindCSS" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="60px" style="padding-right: 10px" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="60px" style="padding-right: 10px" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60px" style="padding-right: 10px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="60px" style="padding-right: 10px" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="60px" style="padding-right: 10px" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="60px" style="padding-right: 10px" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60px" style="padding-right: 10px" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60px" style="padding-right: 10px" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" width="60px" alt="DBeaver" />
+</p>
 
-    
-  
-  <img
-    align="left" 
-    alt="Bootstrap" 
-    title="Bootstrap" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
-
-    
-  
-  <img
-    align="left" 
-    alt="Git" 
-    title="Git" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-
-  <img
-    align="left" 
-    alt="MySQL" 
-    title="MySQL" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
-
-  <img
-    align="left" 
-    alt="DBeaver" 
-    title="DBeaver" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" />
-
-    
-
-    
-</div>  
-
-<br><br><br><br><br> 
+<br />
 
 ## Próximas Tecnologias 🔍
 
-<div>
-
-
-  <img
-    align="left" 
-    alt="PHP" 
-    title="PHP" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-
-  
-  <img
-    align="left" 
-    alt="TypeScript" 
-    title="TypeScript" 
-    width="60px" 
-    style="padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-</div>
-
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="60px" style="padding-right: 10px" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="60px" alt="TypeScript" />
+</p>
 
 
 
